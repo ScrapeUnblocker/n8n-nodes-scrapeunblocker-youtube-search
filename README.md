@@ -108,8 +108,8 @@ Example item (shortened):
     "url": "https://www.youtube.com/@programmingwithmosh"
   },
   "publishedText": "7y ago",
-  "viewCountText": "49,173,245 views",
-  "viewCount": 49173245,
+  "viewCountText": "49,173,570 views",
+  "viewCount": 49173570,
   "shortViewCountText": "49M",
   "lengthText": "6:14:07",
   "lengthSeconds": 22447,
@@ -202,3 +202,4 @@ Tested with n8n 2.40 (self-hosted).
 
 - 0.1.0: Initial release
 - 0.1.1: First release published from GitHub Actions with an npm provenance statement
+- 0.1.2: Node category renamed to Marketing & Content, the name n8n's verification scanner accepts
