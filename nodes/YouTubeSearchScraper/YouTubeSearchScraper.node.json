@@ -1,0 +1,33 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-youtube-search.youTubeSearchScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Marketing",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-youtube-search#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-youtube-search#readme"
+			}
+		]
+	},
+	"alias": [
+		"youtube",
+		"youtube search",
+		"videos",
+		"channels",
+		"playlists",
+		"video search",
+		"rank tracking",
+		"scraper",
+		"apify",
+		"scrapeunblocker"
+	]
+}
